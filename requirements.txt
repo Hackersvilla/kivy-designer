@@ -1,8 +1,8 @@
-kivy >= 1.9.1
-pygments >= 2.1
-docutils >= 0.12
-watchdog >= 0.8
-jedi >= 0.9
-gitpython >= 1.0
-six >= 1.10.0
-kivy-garden
+Kivy >= 1.9.1
+Pygments >= 2.1
+Docutils >= 0.12
+Watchdog >= 0.8
+Jedi >= 0.9
+Gitpython >= 1.0
+Six >= 1.10.0
+Kivy-garden
